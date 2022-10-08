@@ -1,0 +1,10 @@
+Part i:
+1. An Http request allows for one computer to communicate with another computer through ports, querys and site names.
+2. A Url contains the http request allowing for the transmission of data. 
+3. A DNS is Domain name server otherwise considered the "the phonebook of the web"
+4. A query string is the end of the Url following the question mark. It specifies the data that will be returned.
+5. two HTTP verbs are GET and POST. the difference between the two are get will only recieve data whereas post will send data back to the server and change the server in some way.
+6. An http request is a request between two computers accross the internet to receive some form of information.
+7. An Http response is the data that the server responded with including methods and headers.
+//8. A response name if you will that lets you specify among the information that is returned.
+9. The browser first requests the html, then css, then images if they dont take too long, then Js, then if images took too long and any other redirect etc.
